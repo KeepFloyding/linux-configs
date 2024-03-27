@@ -7,7 +7,8 @@ Details can be found here: https://www.raspberrypi.com/news/bookworm-the-new-ver
 Some notes:
 * Wayfire is the compositor (uses a library called wlroots)
 * Options for keyboard shortcuts amongst other things can be found in `.config/wayfire.ini`
-* Panel is wf-panel-pi
+* Panel is `wf-panel-pi`
+* File Manager is `pcmanfm`
 * Some additional applications are needed such as wofi https://sr.ht/~scoopta/wofi/ (a launcher), slurp https://github.com/emersion/slurp (gives the bounding box co-ordinates determined from a mouse that is used for screenshoting) and grim (screenshoting). These can be installed as follows:
 
 ```
