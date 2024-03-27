@@ -9,6 +9,8 @@ Some notes:
 * Options for keyboard shortcuts amongst other things can be found in `.config/wayfire.ini`
 * Panel is `wf-panel-pi`
 * File Manager is `pcmanfm`
+* Locking mechanism is `swaylock`
+* `wlogout` can be used for a quick shutdown screen
 * Some additional applications are needed such as wofi https://sr.ht/~scoopta/wofi/ (a launcher), slurp https://github.com/emersion/slurp (gives the bounding box co-ordinates determined from a mouse that is used for screenshoting) and grim (screenshoting). These can be installed as follows:
 
 ```
