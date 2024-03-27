@@ -1,0 +1,14 @@
+# Tutorial is here: https://mephisto.cc/en/tech/wofi/
+# Ubuntu man pages: https://manpages.ubuntu.com/manpages/jammy/man1/wofi.1.html
+
+show=drun
+width=750
+height=400
+always_parse_args=true
+show_all=false
+insensitive=true
+allow_images=true
+normal_window=true
+allow_markup=true
+prompt= Search
+key_exit=Super_L

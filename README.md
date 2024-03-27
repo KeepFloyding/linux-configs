@@ -29,6 +29,10 @@ meson
 mercurial-common
 ```
 
+## Wofi
+
+Wofi requires some configuation. See the Wofi tutorial here: https://mephisto.cc/en/tech/wofi/. I configured Super key to start wofi and to kill it. 
+
 ## Wayfire.ini
 
 Sample wayfire config is given below. Latest up to date one is saved as file in this repo. A lot is taken from here: https://github.com/WayfireWM/wayfire/blob/master/wayfire.ini. 
