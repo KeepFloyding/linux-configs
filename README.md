@@ -29,9 +29,12 @@ meson
 mercurial-common
 ```
 
-Wayfire config is given below. A lot is taken from here: https://github.com/WayfireWM/wayfire/blob/master/wayfire.ini. 
+## Wayfire.ini
+
+Sample wayfire config is given below. Latest up to date one is saved as file in this repo. A lot is taken from here: https://github.com/WayfireWM/wayfire/blob/master/wayfire.ini. 
 Note that I configured wofi to run as `wofi --show run` and the print command to automatically go via selective screenshot. The Print button for me is `KEY_SYSRQ`. 
-Note that the latest one is uploaded separately as a file.
+I also only use `fast-switcher` cause I hate the Compiz style animation in the normal switcher.
+
 
 
 ```
